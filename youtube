@@ -1,0 +1,964 @@
+# NAME: YouTube
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2024-07-03 16:14:51
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 179
+# IP-CIDR: 2
+# IP-CIDR6: 1
+# TOTAL: 183
+DOMAIN-SUFFIX,ggpht.cn
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,video.google.com
+DOMAIN-SUFFIX,wide-youtube.l.google.com
+DOMAIN-SUFFIX,withyoutube.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,youtube
+DOMAIN-SUFFIX,youtube-nocookie.com
+DOMAIN-SUFFIX,youtube-ui.l.google.com
+DOMAIN-SUFFIX,youtube.ae
+DOMAIN-SUFFIX,youtube.al
+DOMAIN-SUFFIX,youtube.am
+DOMAIN-SUFFIX,youtube.at
+DOMAIN-SUFFIX,youtube.az
+DOMAIN-SUFFIX,youtube.ba
+DOMAIN-SUFFIX,youtube.be
+DOMAIN-SUFFIX,youtube.bg
+DOMAIN-SUFFIX,youtube.bh
+DOMAIN-SUFFIX,youtube.bo
+DOMAIN-SUFFIX,youtube.by
+DOMAIN-SUFFIX,youtube.ca
+DOMAIN-SUFFIX,youtube.cat
+DOMAIN-SUFFIX,youtube.ch
+DOMAIN-SUFFIX,youtube.cl
+DOMAIN-SUFFIX,youtube.co
+DOMAIN-SUFFIX,youtube.co.ae
+DOMAIN-SUFFIX,youtube.co.at
+DOMAIN-SUFFIX,youtube.co.cr
+DOMAIN-SUFFIX,youtube.co.hu
+DOMAIN-SUFFIX,youtube.co.id
+DOMAIN-SUFFIX,youtube.co.il
+DOMAIN-SUFFIX,youtube.co.in
+DOMAIN-SUFFIX,youtube.co.jp
+DOMAIN-SUFFIX,youtube.co.ke
+DOMAIN-SUFFIX,youtube.co.kr
+DOMAIN-SUFFIX,youtube.co.ma
+DOMAIN-SUFFIX,youtube.co.nz
+DOMAIN-SUFFIX,youtube.co.th
+DOMAIN-SUFFIX,youtube.co.tz
+DOMAIN-SUFFIX,youtube.co.ug
+DOMAIN-SUFFIX,youtube.co.uk
+DOMAIN-SUFFIX,youtube.co.ve
+DOMAIN-SUFFIX,youtube.co.za
+DOMAIN-SUFFIX,youtube.co.zw
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,youtube.com.ar
+DOMAIN-SUFFIX,youtube.com.au
+DOMAIN-SUFFIX,youtube.com.az
+DOMAIN-SUFFIX,youtube.com.bd
+DOMAIN-SUFFIX,youtube.com.bh
+DOMAIN-SUFFIX,youtube.com.bo
+DOMAIN-SUFFIX,youtube.com.br
+DOMAIN-SUFFIX,youtube.com.by
+DOMAIN-SUFFIX,youtube.com.co
+DOMAIN-SUFFIX,youtube.com.do
+DOMAIN-SUFFIX,youtube.com.ec
+DOMAIN-SUFFIX,youtube.com.ee
+DOMAIN-SUFFIX,youtube.com.eg
+DOMAIN-SUFFIX,youtube.com.es
+DOMAIN-SUFFIX,youtube.com.gh
+DOMAIN-SUFFIX,youtube.com.gr
+DOMAIN-SUFFIX,youtube.com.gt
+DOMAIN-SUFFIX,youtube.com.hk
+DOMAIN-SUFFIX,youtube.com.hn
+DOMAIN-SUFFIX,youtube.com.hr
+DOMAIN-SUFFIX,youtube.com.jm
+DOMAIN-SUFFIX,youtube.com.jo
+DOMAIN-SUFFIX,youtube.com.kw
+DOMAIN-SUFFIX,youtube.com.lb
+DOMAIN-SUFFIX,youtube.com.lv
+DOMAIN-SUFFIX,youtube.com.ly
+DOMAIN-SUFFIX,youtube.com.mk
+DOMAIN-SUFFIX,youtube.com.mt
+DOMAIN-SUFFIX,youtube.com.mx
+DOMAIN-SUFFIX,youtube.com.my
+DOMAIN-SUFFIX,youtube.com.ng
+DOMAIN-SUFFIX,youtube.com.ni
+DOMAIN-SUFFIX,youtube.com.om
+DOMAIN-SUFFIX,youtube.com.pa
+DOMAIN-SUFFIX,youtube.com.pe
+DOMAIN-SUFFIX,youtube.com.ph
+DOMAIN-SUFFIX,youtube.com.pk
+DOMAIN-SUFFIX,youtube.com.pt
+DOMAIN-SUFFIX,youtube.com.py
+DOMAIN-SUFFIX,youtube.com.qa
+DOMAIN-SUFFIX,youtube.com.ro
+DOMAIN-SUFFIX,youtube.com.sa
+DOMAIN-SUFFIX,youtube.com.sg
+DOMAIN-SUFFIX,youtube.com.sv
+DOMAIN-SUFFIX,youtube.com.tn
+DOMAIN-SUFFIX,youtube.com.tr
+DOMAIN-SUFFIX,youtube.com.tw
+DOMAIN-SUFFIX,youtube.com.ua
+DOMAIN-SUFFIX,youtube.com.uy
+DOMAIN-SUFFIX,youtube.com.ve
+DOMAIN-SUFFIX,youtube.cr
+DOMAIN-SUFFIX,youtube.cz
+DOMAIN-SUFFIX,youtube.de
+DOMAIN-SUFFIX,youtube.dk
+DOMAIN-SUFFIX,youtube.ee
+DOMAIN-SUFFIX,youtube.es
+DOMAIN-SUFFIX,youtube.fi
+DOMAIN-SUFFIX,youtube.fr
+DOMAIN-SUFFIX,youtube.ge
+DOMAIN-SUFFIX,youtube.googleapis.com
+DOMAIN-SUFFIX,youtube.gr
+DOMAIN-SUFFIX,youtube.gt
+DOMAIN-SUFFIX,youtube.hk
+DOMAIN-SUFFIX,youtube.hr
+DOMAIN-SUFFIX,youtube.hu
+DOMAIN-SUFFIX,youtube.ie
+DOMAIN-SUFFIX,youtube.in
+DOMAIN-SUFFIX,youtube.iq
+DOMAIN-SUFFIX,youtube.is
+DOMAIN-SUFFIX,youtube.it
+DOMAIN-SUFFIX,youtube.jo
+DOMAIN-SUFFIX,youtube.jp
+DOMAIN-SUFFIX,youtube.kr
+DOMAIN-SUFFIX,youtube.kz
+DOMAIN-SUFFIX,youtube.la
+DOMAIN-SUFFIX,youtube.lk
+DOMAIN-SUFFIX,youtube.lt
+DOMAIN-SUFFIX,youtube.lu
+DOMAIN-SUFFIX,youtube.lv
+DOMAIN-SUFFIX,youtube.ly
+DOMAIN-SUFFIX,youtube.ma
+DOMAIN-SUFFIX,youtube.md
+DOMAIN-SUFFIX,youtube.me
+DOMAIN-SUFFIX,youtube.mk
+DOMAIN-SUFFIX,youtube.mn
+DOMAIN-SUFFIX,youtube.mx
+DOMAIN-SUFFIX,youtube.my
+DOMAIN-SUFFIX,youtube.ng
+DOMAIN-SUFFIX,youtube.ni
+DOMAIN-SUFFIX,youtube.nl
+DOMAIN-SUFFIX,youtube.no
+DOMAIN-SUFFIX,youtube.pa
+DOMAIN-SUFFIX,youtube.pe
+DOMAIN-SUFFIX,youtube.ph
+DOMAIN-SUFFIX,youtube.pk
+DOMAIN-SUFFIX,youtube.pl
+DOMAIN-SUFFIX,youtube.pr
+DOMAIN-SUFFIX,youtube.pt
+DOMAIN-SUFFIX,youtube.qa
+DOMAIN-SUFFIX,youtube.ro
+DOMAIN-SUFFIX,youtube.rs
+DOMAIN-SUFFIX,youtube.ru
+DOMAIN-SUFFIX,youtube.sa
+DOMAIN-SUFFIX,youtube.se
+DOMAIN-SUFFIX,youtube.sg
+DOMAIN-SUFFIX,youtube.si
+DOMAIN-SUFFIX,youtube.sk
+DOMAIN-SUFFIX,youtube.sn
+DOMAIN-SUFFIX,youtube.soy
+DOMAIN-SUFFIX,youtube.sv
+DOMAIN-SUFFIX,youtube.tn
+DOMAIN-SUFFIX,youtube.tv
+DOMAIN-SUFFIX,youtube.ua
+DOMAIN-SUFFIX,youtube.ug
+DOMAIN-SUFFIX,youtube.uy
+DOMAIN-SUFFIX,youtube.vn
+DOMAIN-SUFFIX,youtubeeducation.com
+DOMAIN-SUFFIX,youtubeembeddedplayer.googleapis.com
+DOMAIN-SUFFIX,youtubefanfest.com
+DOMAIN-SUFFIX,youtubegaming.com
+DOMAIN-SUFFIX,youtubego.co.id
+DOMAIN-SUFFIX,youtubego.co.in
+DOMAIN-SUFFIX,youtubego.com
+DOMAIN-SUFFIX,youtubego.com.br
+DOMAIN-SUFFIX,youtubego.id
+DOMAIN-SUFFIX,youtubego.in
+DOMAIN-SUFFIX,youtubei.googleapis.com
+DOMAIN-SUFFIX,youtubekids.com
+DOMAIN-SUFFIX,youtubemobilesupport.com
+DOMAIN-SUFFIX,yt.be
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-KEYWORD,youtube
+IP-CIDR,172.110.32.0/21,no-resolve
+IP-CIDR,216.73.80.0/20,no-resolve
+IP-CIDR6,2620:120:e000::/40,no-resolve
+Chat
+
+New Conversation
+
+🤓 Explain a complex thing
+
+Explain Artificial Intelligence so that I can explain it to my six-year-old child.
+
+
+🧠 Get suggestions and create new ideas
+
+Please give me the best 10 travel ideas around the world
+
+
+💭 Translate, summarize, fix grammar and more…
+
+Translate "I love you" French
+
+
+GPT-4o Mini
+Hello, how can I help you today?
+Respond in the English language.You are a YouTube video analysis assistant. Your task is to summarize the content of the video and generate a summary includes highlights with key moments and topics discussed in the video. Follow these steps to execute the task:
+
+1. Analyze the video content:
+   Review the video content provided in the webpage. Identify the main themes, topics, and key moments that are discussed throughout the video.
+  2. Create a summary:
+   Write a concise summary of the video, capturing the essence of the content in 3-5 sentences. Focus on the main points and any significant conclusions drawn in the video.
+
+3. Identify highlights:
+   List key moments in the video that are particularly noteworthy as a list in the table. For each highlight, give the timestamp second first and next to it provide a brief description of what happens in that timestamp second and why it is significant. Do not change the second format or value, Do NOT convert to seconds to hours format, just give it as second. Aim for 5-10 highlights.
+
+4. Format the response:
+   Organize the summary and highlights into a visually appealing sidebar format. Include headings for 'Summary' and 'Highlights', and ensure that the highlights are easy to read and navigate.
+
+5. Output the results:
+   Present the summary and highlights in a clear and structured manner, ready to be displayed next to the video.
+
+Notes:
+- Ensure that the summary is informative and engaging, encouraging viewers to watch the video.
+- The highlights should be specific and provide enough context for viewers to understand the significance of each moment.
+- Avoid including any personal opinions or unnecessary commentary; focus solely on the content of the video.
+
+Video content: second:0 text:I did a poll the day before,
+second:2 text:and about 1500 people took part in the poll.
+second:3 text:The main thing is
+second:5 text:to count which openwrt
+second:6 text:firmware you usually use.
+second:8 text:The voting results show
+second:9 text:that the highest proportion is iStoreOS,
+second:10 text:which has exceeded 50%.
+second:13 text:The second most popular is ImmortalWrt
+second:15 text:which accounts for more than 20 percent
+second:16 text:I have put the specific screenshots here.
+second:18 text:Of course
+second:21 text:there are at most five options in the voting of YouTube
+second:24 text:so later I launched a vote in Station B and put more than a dozen options
+second:25 text:I have also put the screenshot here
+second:26 text:From this result,
+second:28 text:you can see that the popularity of
+second:29 text:a firmware may not depend entirely
+second:31 text:on whether the technology is hard-core or not.
+second:33 text:Is this repository
+second:35 text:up to date,
+second:37 text:using the most popular plug-ins?
+second:38 text:It depends on a novice&#39;s user experience when using the firmware for the first time.
+second:41 text:Commonly known as the threshold
+second:42 text:the lower the threshold
+second:44 text:the higher the frequency of firmware use
+second:45 text:But then again
+second:47 text:although iStoreOS accounts for the highest proportion
+second:49 text:it can not fully meet the needs of all people
+second:53 text:That&#39;s what I said.
+second:54 text:Sometimes a function that you
+second:56 text:think is
+second:56 text:very powerful may not be worth mentioning to others.
+second:57 text:Sometimes a feature you sniff
+second:59 text:at may seem
+second:60 text:essential to others.
+second:61 text:If you understand the above two sentences,
+second:63 text:then congratulations! ~, you are a middle-aged man.
+second:66 text:So how can we reconcile this contradiction?
+second:68 text:Today
+second:69 text:for a change
+second:71 text:we will introduce other OpenWrt three minutes to customize their own firmware
+second:73 text:And reduce the threshold of first use as much as possible
+second:76 text:In addition to the firmware itself
+second:77 text:I will also talk about the idea of expansion and backup
+second:80 text:The video is quite long
+second:81 text:I hope you like it and collect it
+second:84 text:So you can see that the firmware that I&#39;m running right now is ImmortalWrt, which we&#39;re going to talk about today
+second:88 text:You can see that this firmware is very pure
+second:91 text:and there are no miscellaneous functions
+second:94 text:But some of the plug-ins are already integrated
+second:96 text:right
+second:100 text:And then under this system package
+second:102 text:you can see that the current package is 2GB of free space
+second:106 text:So it is convenient for us to install some other software later
+second:109 text:So how is such a firmware built?
+second:111 text:Today we will talk about this topic.
+second:112 text:Yes, I think
+second:114 text:you have already thought that
+second:115 text:if you want to build quickly,
+second:116 text:you will undoubtedly use imagebuilder to build
+second:118 text:in the cloud.
+second:118 text:This speed is the fastest.
+second:119 text:You can see that this
+second:121 text:is an online platform built
+second:122 text:by the original openwrt official
+second:124 text:website.
+second:124 text:Through the drop-down options on the right,
+second:126 text:we can select the version of luci,
+second:128 text:and then here we can select some models you want.
+second:130 text:Just search by yourself, for example,
+second:132 text:r2s,
+second:134 text:right? You can find this kind of model,
+second:135 text:a platform like this.
+second:137 text:In fact, I found two or three,
+second:138 text:this is official,
+second:140 text:and then this kwrtkwrt is a website
+second:142 text:that has been established for two years.
+second:145 text:And it has many subdivisions and many functions.
+second:148 text:What we introduce today is very similar to the official website,
+second:152 text:but it is also free.
+second:153 text:At the same time,
+second:155 text:it contains the third-party software packages we want,
+second:156 text:so we focus
+second:157 text:on how we should build it.
+second:159 text:Especially how these parameters should be written.
+second:161 text:After opening this interface,
+second:162 text:you can see that there is
+second:165 text:a customization here.
+second:166 text:You can see that there is a pre-installed package
+second:168 text:and a script for the first run.
+second:170 text:I have put the text tutorial accompanying
+second:172 text:today&#39;s video in the description area below the video,
+second:174 text:and it may also be placed at the top of the comments.
+second:176 text:You can watch it together according to the pictures and videos.
+second:179 text:Of course, I have saved a copy
+second:181 text:of the firmware compiled today to my Google Internet disk
+second:184 text:and put it here.
+second:185 text:Then last time I voted,
+second:188 text:I also saw a message that he asked me to help make a firmware
+second:191 text:for R1S,
+second:193 text:because I saw his message.So I also made a network disk for me by the way, that is,
+second:195 text:R1S has been put here,
+second:197 text:including the information of the software has been written.
+second:200 text:If this little friend needs to see my video
+second:201 text:you can download it by yourself
+second:204 text:It&#39;s like this by default
+second:206 text:After clicking on the custom expansion,
+second:209 text:we can fill in some third-party applications,
+second:211 text:such as science plug-ins.You can write it in here.
+second:215 text:There must be a standard for what software
+second:217 text:we have and what software we don&#39;t have. We can&#39;t write it casually.
+second:220 text:This involves a warehouse.
+second:222 text:Click on my blog,
+second:223 text:and this is the address of the warehouse.
+second:225 text:As you can see, this is some of the warehouse addresses
+second:228 text:of Tianling&#39;s firmware,
+second:230 text:and this is where all the APPs are.
+second:232 text:Suppose we want to confirm whether there is a plug-in.
+second:238 text:For example,
+second:239 text:if you search for PW, you can see that it has been found,
+second:241 text:which means that the warehouse has this plug-in.
+second:243 text:We can search for another oc
+second:248 text:no problem
+second:250 text:Yes, there is. No problem.
+second:255 text:Ssrp indicates that there is no ssrp in this repository
+second:259 text:but to be honest
+second:261 text:the three plug-ins just inserted are enough for us to use
+second:262 text:And especially PW
+second:264 text:they have a lot of common places
+second:266 text:and there is no need to install both
+second:267 text:Here I give you a summary of some commonly used plug-ins
+second:270 text:this plug-in is for the Chinese firewall
+second:273 text:Because it may be in English by default
+second:275 text:this plug-in is meant to add a file manager
+second:276 text:In particular
+second:278 text:we need to upload and download
+second:280 text:which I think is necessary and can&#39;t be streamlined any more
+second:282 text:Then this is a purple theme
+second:285 text:which will make it look better
+second:287 text:Then this is also necessary
+second:289 text:for the localization of the software package.
+second:291 text:Then this is a terminal
+second:293 text:which is convenient for us to enter the code in the web page
+second:295 text:Then there are several famous science plug-ins
+second:298 text:one is PW
+second:300 text:the other is oc
+second:301 text:and there is a feature of Tianling firmware HP is
+second:304 text:good  These are the plug-ins that I
+second:307 text:think are more important.
+second:308 text:If it&#39;s you, you can add them here. It doesn&#39;t matter.
+second:311 text:If your needs are the same as mine, in fact,
+second:313 text:you can just download the firmware I compiled.
+second:316 text:Or you can click here to copy it and then we
+second:319 text:can paste it directly here.
+second:322 text:Pay attention to the problem of some spaces.
+second:324 text:The key point is that I
+second:326 text:want to focus on the following script,
+second:327 text:which I just mentioned at the beginning of the film.
+second:329 text:We try to lower the threshold of the first use,
+second:332 text:so the script of UCI is very critical.
+second:335 text:Let me explain why I write this separately.
+second:338 text:The function of this is to open the firewall of
+second:341 text:the Wan port for the convenience of
+second:342 text:virtual machine users,
+second:343 text:which is very critical.Direct access with the Wan port is equivalent to a physical machine,
+second:345 text:which can be done with a network cable.
+second:348 text:Of course, if you feel unsafe,
+second:350 text:you can turn it off later.
+second:352 text:Ok, what does the second sentence mean?
+second:354 text:I set up a host name mapping.
+second:356 text:This problem is to solve
+second:357 text:the problem that our vast number of TV box enthusiasts,
+second:359 text:especially Android native TV, can not connect to the Internet for the first time.
+second:363 text:I have built this in
+second:364 text:so you don&#39;t need to set it manually
+second:366 text:What is the third point
+second:367 text:I match the Internet access mode according to the number of network cards
+second:372 text:If you have a single network port now
+second:375 text:I will set it to DHCP mode
+second:378 text:If you don&#39;t understand,
+second:380 text:you can think of soft routing as
+second:382 text:a NAS.  If there is only one network port
+second:383 text:you have to let it access the Internet
+second:385 text:so it will be convenient for us to connect to the Internet
+second:387 text:If you want to set up bypass routes later
+second:388 text:it is also very convenient
+second:390 text:because it is very convenient to have a network
+second:392 text:If there are multiple network ports,
+second:396 text:for example, two or more network ports,
+second:399 text:the default setting is static IP.Then the Wan port firewall is still open.
+second:401 text:My modifications have been written in the instructions of the firmware
+second:403 text:that is to say
+second:405 text:I have done a few jobs in total
+second:408 text:The first is to change the IP address
+second:411 text:from 1.1 to 100.1,
+second:413 text:because 1.1 may conflict with the optical cat.
+second:415 text:The Wan port firewall is opened to facilitate web access
+second:417 text:Then the second point is to add custom domain name hijacking
+second:420 text:and set this theme.
+second:421 text:The third point is to install these four plug-ins in the service.
+second:425 text:We will talk about it later. We will talk about an expansion operation.
+second:427 text:The last point is to determine its Internet access mode according to the number of network ports.
+second:432 text:If you understand all this
+second:434 text:you can copy it down
+second:437 text:click copy and paste it directly
+second:440 text:If we are sure that there are no problems
+second:443 text:we can just click on the request to build
+second:446 text:and then we can download it in three minutes
+second:448 text:Then it will show that the build request has been received
+second:452 text:If there is an error in these two lines of parameters
+second:455 text:it will report an error
+second:456 text:So try not to make mistakes
+second:458 text:And the button of this request building
+second:460 text:should not be triggered frequently,
+second:462 text:and it should not be triggered twice in a minute.
+second:464 text:This process may last for about three minutes,
+second:466 text:so you can wait patiently.
+second:468 text:When it is built,
+second:469 text:there will be a download address for the image.
+second:471 text:Well, after a few minutes,
+second:473 text:it will show that the build is successful.
+second:475 text:There is a custom download at the bottom,
+second:477 text:and there are so many image formats.
+second:479 text:I strongly recommend that
+second:481 text:you download this format,
+second:483 text:combineEFI, because this EFI is
+second:484 text:compatible with the traditional BIOS and can be
+second:486 text:backward compatible.
+second:488 text:There is also a read-only partition in it.
+second:490 text:In the future
+second:492 text:if you want to restore or reset the system
+second:493 text:it will be very convenient
+second:496 text:Its size is more than 50 megabytes,
+second:498 text:which is very small, and after decompression,
+second:500 text:it is more than 300 megabytes.
+second:501 text:When we open this software package,
+second:504 text:we will find that its remaining space may only be 200 megabytes.
+second:505 text:How to say this 200 megabytes?
+second:506 text:If you don&#39;t use docker
+second:508 text:this 200 megabytes is absolutely enough
+second:509 text:but if you want to use docker later
+second:512 text:This 200 megabytes is absolutely not enough
+second:513 text:This involves the problem of expanding the capacity of firmware.
+second:516 text:There are two ways to expand the capacity
+second:517 text:one is to directly deal with the firmware itself
+second:519 text:and the other is to expand the capacity after the system is running
+second:522 text:Let&#39;s talk about the difference between these two expansion methods.
+second:525 text:In fact, there are only two points,
+second:526 text:one is the difference of reset,
+second:527 text:and the other is the difference of upgrade.
+second:528 text:First of all, let&#39;s talk about the difference of reset.
+second:530 text:If the firmware itself is expanded,
+second:533 text:then it is still the size after reset.
+second:535 text:For example,
+second:537 text:if you expand to 2GB before, it will still be 2GB after resetting,
+second:539 text:because the firmware itself is 2GB.
+second:540 text:If the capacity is expanded after operation
+second:542 text:the size after reset must be the size before expansion
+second:545 text:The second method has certain disadvantages
+second:547 text:which is not conducive to reset
+second:548 text:Let&#39;s talk about the difference of upgrading again. In fact, there is no difference in upgrading, because the essence of upgrading is to change a firmware.So after the upgrade, it&#39;s the size
+second:549 text:of the new firmware.
+second:551 text:The new firmware is
+second:553 text:as big as it is.
+second:555 text:For example,
+second:557 text:the new firmware
+second:558 text:is 200 megabytes.
+second:560 text:So it&#39;s 200 megabytes. The new firmware is 300 megabytes. That&#39;s 300 megabytes.
+second:562 text:Considering that the upgrade is not a high-frequency operation,
+second:564 text:the firmware may not be replaced for a year and a half
+second:566 text:after it is stable.
+second:568 text:And this reset is more important.
+second:570 text:If you encounter any network problems,
+second:573 text:you will be fine after resetting, and you don&#39;t need to delve into what caused it.
+second:575 text:In short, the general reset is good.
+second:577 text:So I personally prefer to use the first method to expand capacity.
+second:581 text:The second method is actually simpler
+second:583 text:because now Pd has developed a third-party plug-in for us
+second:584 text:Partition is very easy
+second:587 text:you can partition directly with one click
+second:589 text:Next, we will talk about these two methods separately.
+second:595 text:All right
+second:598 text:let&#39;s take a look at that firmware we just built and download
+second:600 text:I
+second:601 text:suggest that you use the iStoreOS environment
+second:605 text:directly as a processing tool. In fact,
+second:606 text:other openwrt or other Linux can also be used.
+second:608 text:But considering that other openwrts may not have that much space to deal with,
+second:610 text:Because at least you have to make
+second:612 text:sure that your space is
+second:615 text:more than 2GB.
+second:616 text:Many openwrts don&#39;t actually have such a large partition, so it&#39;s not easy to
+second:619 text:handle.
+second:621 text:If your openwrt
+second:622 text:does have such a large partition,
+second:624 text:you have to install these two additional components.
+second:627 text:So I won&#39;t show you this. I&#39;ll use
+second:628 text:iStoreOS to do the demonstration.
+second:631 text:Suppose this is an iStoreOS that has been refreshed.
+second:634 text:If you don&#39;t have iStoreOS,
+second:635 text:You can use a USB stick to install
+second:637 text:one on another machine,
+second:639 text:or install one in a virtual machine.
+second:641 text:Then we open the file manager and click
+second:643 text:here to upload.
+second:646 text:Okay, this is the firmware we just downloaded.
+second:648 text:Let&#39;s change the name first.
+second:650 text:The name is a little long.
+second:652 text:ImmortalWrt. IMG.
+second:655 text:GZ we upload it directly.
+second:658 text:
+second:660 text:Upload the click terminal,
+second:663 text:Next, we will CD to the directory just now.
+second:670 text:Okay, this is what we just uploaded.
+second:672 text:Okay, we can do the next operation by comparing this blog.
+second:675 text:First of all, the first step is
+second:677 text:to decompress the image,
+second:679 text:decompress it into MG, and then do some filling data for the image.Of course,
+second:683 text:these two steps can actually be combined into one,
+second:685 text:so let&#39;s just copy it and right click
+second:687 text:to paste it.
+second:690 text:Ok
+second:692 text:now he is unzipping
+second:694 text:gzip-kd means that the original file is still there after unzipping
+second:696 text:and it has been filled
+second:698 text:After the population is complete,
+second:698 text:we then actually assign 2GB of
+second:703 text:space to the partition because it
+second:705 text:is now in a mounted state.
+second:708 text:Without actually assigning the partition step, just use the parted command.
+second:713 text:Now you
+second:714 text:can see that you have entered the command line status
+second:717 text:of the parted partition tool.
+second:719 text:Enter print and it will have such a prompt.
+second:723 text:If this prompt appears,
+second:724 text:you must enter OK,
+second:726 text:capitalized OK, and then there will be
+second:729 text:a warning here.
+second:731 text:Don&#39;t worry about it or type fix,
+second:733 text:just fix and enter.
+second:737 text:
+second:737 text:In this case
+second:738 text:you can see a partition structure of this image
+second:740 text:You can see that the image is so big by default
+second:743 text:and the total space is more than 300 megabytes
+second:746 text:So we do a filling on this basis.
+second:748 text:resizepart2100%
+second:750 text:This 2 represents the expansion from the second partition to 100 percent
+second:754 text:Okay
+second:754 text:let&#39;s enter resizepart2100% here
+second:757 text:In this way, 2GB of
+second:759 text:empty data will be completely filled
+second:761 text:into the real partition.
+second:763 text:Then press Enter Then we&#39;ll print it again at this time.
+second:768 text:Ok, you can see that
+second:770 text:this time its space has become 2412 megabytes,
+second:774 text:which was 315 megabytes before,
+second:776 text:which means that we have successfully expanded our capacity.
+second:778 text:Then we type quit, and that&#39;s it.
+second:782 text:So what you see now is after the image processing
+second:787 text:This is before
+second:789 text:Don&#39;t confuse it.Let&#39;s delete the previous one first
+second:793 text:This is after processing
+second:795 text:and we can download it directly
+second:797 text:If you want to compress further,
+second:799 text:you just type gzip -k,
+second:800 text:and then the image name
+second:803 text:is compressed further.
+second:805 text:After compression, it is very small,
+second:806 text:that is, more than 50 megabytes.
+second:808 text:All right, this side has been compressed.
+second:810 text:After the compression,
+second:812 text:we will refresh the final expansion.
+second:814 text:This is before compression,
+second:816 text:and this is after compression.
+second:818 text:If you put
+second:819 text:it on the network disk,
+second:821 text:you will use the small one,
+second:823 text:and then I have put the expanded files on
+second:825 text:my Google network disk.
+second:827 text:Specifically in this position, you can see that there is a 2GBOPKG on the name,
+second:830 text:which represents the expansion.
+second:832 text:Next
+second:836 text:we will show it to you on this machine
+second:837 text:Ok
+second:838 text:now you see the firmware that we just expanded
+second:840 text:I have already refreshed the machine
+second:842 text:and then just click on the login
+second:843 text:Because there is no password by default
+second:845 text:After logging in
+second:847 text:let&#39;s take a look at the system and click on the software package
+second:849 text:You can see that the remaining space is 2.1GB
+second:852 text:Because the firmware itself is expanded
+second:855 text:So if you want to reset in the future
+second:858 text:if you click Reset here
+second:859 text:the size of the package will not change
+second:864 text:Okay, I&#39;m going to talk about the second method.
+second:866 text:The second method is to install a partition expansion software
+second:870 text:directly in the running state.
+second:873 text:This tool is a plug-in made
+second:876 text:by sirpdboy.
+second:877 text:So we wrote a one-click installation script
+second:880 text:based on the above ipk,
+second:883 text:and then we actually copied this line.
+second:886 text:If your firmware doesn&#39;t have a terminal,
+second:888 text:you can also use
+second:890 text:finalshell or other tools.
+second:892 text:All right, just paste it here and enter.
+second:901 text:Ok, after the installation is successful, there will be a prompt here.
+second:904 text:If the installation is successful,
+second:906 text:you can log out and log in again.
+second:908 text:Then click on the system
+second:910 text:this time there is an extra partition Capacity expansion
+second:915 text:So this tool is very simple.
+second:916 text:If you want to back up some of your current software
+second:920 text:we&#39;ll check Keep Configuration
+second:924 text:Then here is the space for expanding your opkg
+second:927 text:which is commonly known as the space for software packages
+second:929 text:And then this target hard disk,
+second:934 text:the hard disk that you&#39;re using right now,And then it will allocate the remaining space to the package,
+second:937 text:so this way is not very flexible,
+second:940 text:you can not specify the size of it.
+second:942 text:Of course,
+second:944 text:if you have other hard disks,
+second:945 text:for example, I have other hard disks,
+second:949 text:you can also expand them to other hard disk space.Then click Execute  Let&#39;s take a look at the log.
+second:953 text:It&#39;s being tested now
+second:956 text:Building partition
+second:957 text:It will be restarted after successful execution
+second:959 text:There will be a log here.
+second:961 text:It&#39;s starting to back up now. Okay, now it&#39;s backed
+second:963 text:up successfully.
+second:967 text:The device is about to restart, OK?
+second:969 text:It&#39;s restarting now. Let&#39;s wait a moment.
+second:970 text:Well,
+second:972 text:after a while, it has restarted.
+second:974 text:After restarting
+second:974 text:we click on the system
+second:979 text:click on this package
+second:981 text:and you can see that the space of this package becomes 54.39 in an instant
+second:984 text:This space is exactly the remaining space of my hard disk
+second:988 text:so we have successfully expanded the capacity
+second:990 text:We can see that there is still partition expansion under the left system
+second:993 text:What does this mean
+second:994 text:This shows that the backup just now is effective,
+second:997 text:because our partition expansion is equivalent to third-party software.
+second:1001 text:But when you reboot, you&#39;ll find it&#39;s still there.
+second:1003 text:These are the two expansion methods I talked about.
+second:1008 text:Next
+second:1010 text:let&#39;s talk about backup
+second:1012 text:If you want to brush the firmware of my Google Internet Disk after watching my video today
+second:1014 text:Before this upgrade
+second:1015 text:I suggest you make a backup
+second:1017 text:Of course, the upgrade can generally retain the configuration,
+second:1020 text:but it is best to make a backup.  Just in case,
+second:1022 text:my advice to everyone is to do a backup first,
+second:1025 text:then upgrade, and then restore.
+second:1028 text:In this case, all the software you installed before should still be there.
+second:1030 text:So my personal suggestion is to use my one-click backup first
+second:1034 text:which is also a script I wrote before
+second:1036 text:Then he also has a matching video
+second:1038 text:which you can refer to That video
+second:1039 text:is actually very simple,
+second:1040 text:and we directly execute this sentence in the terminal
+second:1042 text:to complete the backup.
+second:1043 text:After the backup, it is such a tar.
+second:1046 text:GZ file, which can be restored with only one line of command
+second:1049 text:in the future.
+second:1050 text:So to sum up
+second:1052 text:this step is that we perform a backup first
+second:1055 text:and after the backup
+second:1058 text:you can brush some of my new firmware
+second:1060 text:We&#39;ll restore it after we finish it, so we can make sure it&#39;s safe
+second:1062 text:All right, that&#39;s all I can say so far.
+second:1064 text:In today&#39;s video, we explain how
+second:1066 text:to build custom firmware quickly,
+second:1069 text:how to download firmware,
+second:1070 text:and how to do it.How to expand the capacity of firmware in two ways,
+second:1073 text:and the final backup idea
+second:1075 text:At present, there are many kinds of OpenWrt firmware,
+second:1078 text:which can be said to be in full bloom.
+second:1079 text:So you can also download different firmware according
+second:1081 text:to your own needs
+second:1083 text:and try it yourself.
+second:1084 text:All right, that&#39;s all for today&#39;s video.
+second:1087 text:See you in the next video.
+
+
+GPT-4o Mini
+Summary
+
+In this video, the creator discusses the results of a poll conducted among users of OpenWrt firmware, revealing that iStoreOS is the most popular choice, followed by ImmortalWrt. The video emphasizes the importance of user experience over technical features when selecting firmware. The presenter then guides viewers through the process of customizing firmware, utilizing image builders, and managing plugins to enhance functionality while lowering the entry threshold for new users. The video concludes with methods for expanding firmware capacity and the significance of making backups before upgrading.
+Highlights
+
+Timestamp	Description
+0	Introduction of poll results about OpenWrt firmware preferences.
+9	iStoreOS is confirmed as the most popular firmware, exceeding 50% votes.
+29	Discussion on how firmware popularity relates to user experience and needs.
+71	Introduction to customizing OpenWrt firmware to suit individual needs.
+112	Explanation of using image builders to quickly create firmware.
+188	Announcement of a specific firmware build for an R1S model.
+327	Emphasis on a script to lower the threshold for first-time users.         ### Summary
+In this video, the creator discusses the results of a poll conducted among users of OpenWrt firmware, revealing that iStoreOS is the most popular choice, followed by ImmortalWrt. The video emphasizes the importance of user experience over technical features when selecting firmware. The presenter then guides viewers through the process of customizing firmware, utilizing image builders, and managing plugins to enhance functionality while lowering the entry threshold for new users. The video concludes with methods for expanding firmware capacity and the significance of making backups before upgrading.	
+
+Highlights
+
+Timestamp	Description
+0	Introduction of poll results about OpenWrt firmware preferences.
+9	iStoreOS is confirmed as the most popular firmware, exceeding 50% votes.
+29	Discussion on how firmware popularity relates to user experience and needs.
+71	Introduction to customizing OpenWrt firmware to suit individual needs.
+112	Explanation of using image builders to quickly create firmware.
+188	Announcement of a specific firmware build for an R1S model.
+327	Emphasis on a script to lower the threshold for first-time users.
+
+GPT-4o Mini
+coin image
+10
+Upgrade
+
+
+
+# NAME: YouTube
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2024-07-03 16:14:51
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 179
+# IP-CIDR: 2
+# IP-CIDR6: 1
+# TOTAL: 183
+DOMAIN-SUFFIX,ggpht.cn
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,video.google.com
+DOMAIN-SUFFIX,wide-youtube.l.google.com
+DOMAIN-SUFFIX,withyoutube.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,youtube
+DOMAIN-SUFFIX,youtube-nocookie.com
+DOMAIN-SUFFIX,youtube-ui.l.google.com
+DOMAIN-SUFFIX,youtube.ae
+DOMAIN-SUFFIX,youtube.al
+DOMAIN-SUFFIX,youtube.am
+DOMAIN-SUFFIX,youtube.at
+DOMAIN-SUFFIX,youtube.az
+DOMAIN-SUFFIX,youtube.ba
+DOMAIN-SUFFIX,youtube.be
+DOMAIN-SUFFIX,youtube.bg
+DOMAIN-SUFFIX,youtube.bh
+DOMAIN-SUFFIX,youtube.bo
+DOMAIN-SUFFIX,youtube.by
+DOMAIN-SUFFIX,youtube.ca
+DOMAIN-SUFFIX,youtube.cat
+DOMAIN-SUFFIX,youtube.ch
+DOMAIN-SUFFIX,youtube.cl
+DOMAIN-SUFFIX,youtube.co
+DOMAIN-SUFFIX,youtube.co.ae
+DOMAIN-SUFFIX,youtube.co.at
+DOMAIN-SUFFIX,youtube.co.cr
+DOMAIN-SUFFIX,youtube.co.hu
+DOMAIN-SUFFIX,youtube.co.id
+DOMAIN-SUFFIX,youtube.co.il
+DOMAIN-SUFFIX,youtube.co.in
+DOMAIN-SUFFIX,youtube.co.jp
+DOMAIN-SUFFIX,youtube.co.ke
+DOMAIN-SUFFIX,youtube.co.kr
+DOMAIN-SUFFIX,youtube.co.ma
+DOMAIN-SUFFIX,youtube.co.nz
+DOMAIN-SUFFIX,youtube.co.th
+DOMAIN-SUFFIX,youtube.co.tz
+DOMAIN-SUFFIX,youtube.co.ug
+DOMAIN-SUFFIX,youtube.co.uk
+DOMAIN-SUFFIX,youtube.co.ve
+DOMAIN-SUFFIX,youtube.co.za
+DOMAIN-SUFFIX,youtube.co.zw
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,youtube.com.ar
+DOMAIN-SUFFIX,youtube.com.au
+DOMAIN-SUFFIX,youtube.com.az
+DOMAIN-SUFFIX,youtube.com.bd
+DOMAIN-SUFFIX,youtube.com.bh
+DOMAIN-SUFFIX,youtube.com.bo
+DOMAIN-SUFFIX,youtube.com.br
+DOMAIN-SUFFIX,youtube.com.by
+DOMAIN-SUFFIX,youtube.com.co
+DOMAIN-SUFFIX,youtube.com.do
+DOMAIN-SUFFIX,youtube.com.ec
+DOMAIN-SUFFIX,youtube.com.ee
+DOMAIN-SUFFIX,youtube.com.eg
+DOMAIN-SUFFIX,youtube.com.es
+DOMAIN-SUFFIX,youtube.com.gh
+DOMAIN-SUFFIX,youtube.com.gr
+DOMAIN-SUFFIX,youtube.com.gt
+DOMAIN-SUFFIX,youtube.com.hk
+DOMAIN-SUFFIX,youtube.com.hn
+DOMAIN-SUFFIX,youtube.com.hr
+DOMAIN-SUFFIX,youtube.com.jm
+DOMAIN-SUFFIX,youtube.com.jo
+DOMAIN-SUFFIX,youtube.com.kw
+DOMAIN-SUFFIX,youtube.com.lb
+DOMAIN-SUFFIX,youtube.com.lv
+DOMAIN-SUFFIX,youtube.com.ly
+DOMAIN-SUFFIX,youtube.com.mk
+DOMAIN-SUFFIX,youtube.com.mt
+DOMAIN-SUFFIX,youtube.com.mx
+DOMAIN-SUFFIX,youtube.com.my
+DOMAIN-SUFFIX,youtube.com.ng
+DOMAIN-SUFFIX,youtube.com.ni
+DOMAIN-SUFFIX,youtube.com.om
+DOMAIN-SUFFIX,youtube.com.pa
+DOMAIN-SUFFIX,youtube.com.pe
+DOMAIN-SUFFIX,youtube.com.ph
+DOMAIN-SUFFIX,youtube.com.pk
+DOMAIN-SUFFIX,youtube.com.pt
+DOMAIN-SUFFIX,youtube.com.py
+DOMAIN-SUFFIX,youtube.com.qa
+DOMAIN-SUFFIX,youtube.com.ro
+DOMAIN-SUFFIX,youtube.com.sa
+DOMAIN-SUFFIX,youtube.com.sg
+DOMAIN-SUFFIX,youtube.com.sv
+DOMAIN-SUFFIX,youtube.com.tn
+DOMAIN-SUFFIX,youtube.com.tr
+DOMAIN-SUFFIX,youtube.com.tw
+DOMAIN-SUFFIX,youtube.com.ua
+DOMAIN-SUFFIX,youtube.com.uy
+DOMAIN-SUFFIX,youtube.com.ve
+DOMAIN-SUFFIX,youtube.cr
+DOMAIN-SUFFIX,youtube.cz
+DOMAIN-SUFFIX,youtube.de
+DOMAIN-SUFFIX,youtube.dk
+DOMAIN-SUFFIX,youtube.ee
+DOMAIN-SUFFIX,youtube.es
+DOMAIN-SUFFIX,youtube.fi
+DOMAIN-SUFFIX,youtube.fr
+DOMAIN-SUFFIX,youtube.ge
+DOMAIN-SUFFIX,youtube.googleapis.com
+DOMAIN-SUFFIX,youtube.gr
+DOMAIN-SUFFIX,youtube.gt
+DOMAIN-SUFFIX,youtube.hk
+DOMAIN-SUFFIX,youtube.hr
+DOMAIN-SUFFIX,youtube.hu
+DOMAIN-SUFFIX,youtube.ie
+DOMAIN-SUFFIX,youtube.in
+DOMAIN-SUFFIX,youtube.iq
+DOMAIN-SUFFIX,youtube.is
+DOMAIN-SUFFIX,youtube.it
+DOMAIN-SUFFIX,youtube.jo
+DOMAIN-SUFFIX,youtube.jp
+DOMAIN-SUFFIX,youtube.kr
+DOMAIN-SUFFIX,youtube.kz
+DOMAIN-SUFFIX,youtube.la
+DOMAIN-SUFFIX,youtube.lk
+DOMAIN-SUFFIX,youtube.lt
+DOMAIN-SUFFIX,youtube.lu
+DOMAIN-SUFFIX,youtube.lv
+DOMAIN-SUFFIX,youtube.ly
+DOMAIN-SUFFIX,youtube.ma
+DOMAIN-SUFFIX,youtube.md
+DOMAIN-SUFFIX,youtube.me
+DOMAIN-SUFFIX,youtube.mk
+DOMAIN-SUFFIX,youtube.mn
+DOMAIN-SUFFIX,youtube.mx
+DOMAIN-SUFFIX,youtube.my
+DOMAIN-SUFFIX,youtube.ng
+DOMAIN-SUFFIX,youtube.ni
+DOMAIN-SUFFIX,youtube.nl
+DOMAIN-SUFFIX,youtube.no
+DOMAIN-SUFFIX,youtube.pa
+DOMAIN-SUFFIX,youtube.pe
+DOMAIN-SUFFIX,youtube.ph
+DOMAIN-SUFFIX,youtube.pk
+DOMAIN-SUFFIX,youtube.pl
+DOMAIN-SUFFIX,youtube.pr
+DOMAIN-SUFFIX,youtube.pt
+DOMAIN-SUFFIX,youtube.qa
+DOMAIN-SUFFIX,youtube.ro
+DOMAIN-SUFFIX,youtube.rs
+DOMAIN-SUFFIX,youtube.ru
+DOMAIN-SUFFIX,youtube.sa
+DOMAIN-SUFFIX,youtube.se
+DOMAIN-SUFFIX,youtube.sg
+DOMAIN-SUFFIX,youtube.si
+DOMAIN-SUFFIX,youtube.sk
+DOMAIN-SUFFIX,youtube.sn
+DOMAIN-SUFFIX,youtube.soy
+DOMAIN-SUFFIX,youtube.sv
+DOMAIN-SUFFIX,youtube.tn
+DOMAIN-SUFFIX,youtube.tv
+DOMAIN-SUFFIX,youtube.ua
+DOMAIN-SUFFIX,youtube.ug
+DOMAIN-SUFFIX,youtube.uy
+DOMAIN-SUFFIX,youtube.vn
+DOMAIN-SUFFIX,youtubeeducation.com
+DOMAIN-SUFFIX,youtubeembeddedplayer.googleapis.com
+DOMAIN-SUFFIX,youtubefanfest.com
+DOMAIN-SUFFIX,youtubegaming.com
+DOMAIN-SUFFIX,youtubego.co.id
+DOMAIN-SUFFIX,youtubego.co.in
+DOMAIN-SUFFIX,youtubego.com
+DOMAIN-SUFFIX,youtubego.com.br
+DOMAIN-SUFFIX,youtubego.id
+DOMAIN-SUFFIX,youtubego.in
+DOMAIN-SUFFIX,youtubei.googleapis.com
+DOMAIN-SUFFIX,youtubekids.com
+DOMAIN-SUFFIX,youtubemobilesupport.com
+DOMAIN-SUFFIX,yt.be
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-KEYWORD,youtube
+IP-CIDR,172.110.32.0/21,no-resolve
+IP-CIDR,216.73.80.0/20,no-resolve
+IP-CIDR6,2620:120:e000::/40,no-resolve
+
+
+
+
+
+Make a Review & Earn Credit ❤
+Chat
+Ask
+Search
+Write
+Image
+ChatPDF
+Vision
+Full Page
+Invite & Earn
