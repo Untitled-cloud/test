@@ -9,6 +9,7 @@
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
 # TOTAL: 30890
+DOMAIN,api.hlive.io
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
@@ -93,6 +94,7 @@ DOMAIN,cloud.oracle.com
 DOMAIN,location.microsoft.com
 DOMAIN,login.microsoftonline.com
 DOMAIN,self.events.data.microsoft.com
+DOMAIN-SUFFIX,api.hlive.io
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,01.org
 DOMAIN-SUFFIX,02weqj32.com
