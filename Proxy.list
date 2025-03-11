@@ -95,6 +95,12 @@ DOMAIN,cloud.oracle.com
 DOMAIN,location.microsoft.com
 DOMAIN,login.microsoftonline.com
 DOMAIN,self.events.data.microsoft.com
+DOMAIN,s8-e1.etcbbb.xyz
+DOMAIN,s8-e1.etcbbc.xyz
+DOMAIN,s8-e1.etcbbe.xyz
+DOMAIN,s8-e1.etcbbf.xyz
+DOMAIN,s8-e1.etcbbd.xyz
+DOMAIN,s8-e1.etcbba.xyz
 DOMAIN,static.hlive.io
 DOMAIN,static.yfsp.tv
 DOMAIN,chat.hlive.io
