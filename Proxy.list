@@ -98,6 +98,7 @@ DOMAIN,self.events.data.microsoft.com
 DOMAIN,static.hlive.io
 DOMAIN,static.yfsp.tv
 DOMAIN,chat.hlive.io
+DOMAIN,m.hlive.io
 DOMAIN,s2-e1.tfboyaad.com
 DOMAIN,s2-e1.tfboyaae.com
 DOMAIN,s2-e1.tfboyaab.com
@@ -107,6 +108,7 @@ DOMAIN,s2-e1.tfboyaaa.com
 DOMAIN,s2-e1.dentisest.com
 DOMAIN,s2-e1.doaminwhole.com
 DOMAIN,pptstatic.hlive.io
+DOMAIN-SUFFIX,m.hlive.io
 DOMAIN-SUFFIX,hlive.io
 DOMAIN-SUFFIX,static.hlive.io
 DOMAIN-SUFFIX,static.yfsp.tv
@@ -62275,6 +62277,7 @@ DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,uk-live
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,hlive.io
 IP-CIDR,1.201.0.0/24,no-resolve
 IP-CIDR,101.32.118.0/23,no-resolve
 IP-CIDR,101.32.96.0/20,no-resolve
