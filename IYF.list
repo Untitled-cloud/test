@@ -56,6 +56,11 @@ DOMAIN,s8-e1.bitwayeat.com
 DOMAIN,s8-e1.bytwogeneral.com
 DOMAIN,s8-e1.deniest.com
 DOMAIN,s8-e1.timeprecei.com
+DOMAIN,s8-e1.bitwayeat.com
+DOMAIN,s8-e1.arebyte.xyz
+DOMAIN,s8-e1.newyvpd.com
+DOMAIN,s10-e1.arebyte.xyz
+DOMAIN,s10-e1.generalcdn.com
 
 #DOMAIN-SUFFIX
 DOMAIN-SUFFIX,m.yfsp.tv
@@ -75,6 +80,7 @@ DOMAIN-SUFFIX,dentisest.com
 DOMAIN-SUFFIX,deniest.com
 DOMAIN-SUFFIX,timeprecei.com
 DOMAIN-SUFFIX,bytwogeneral.com
+DOMAIN-SUFFIX,bitwayeat.com
 DOMAIN-SUFFIX,etcbba.xyz
 DOMAIN-SUFFIX,etcbbb.xyz
 DOMAIN-SUFFIX,etcbbc.xyz
@@ -87,6 +93,8 @@ DOMAIN-SUFFIX,newwycdn.com
 DOMAIN-SUFFIX,newyvpa.com
 DOMAIN-SUFFIX,newyvpd.com
 DOMAIN-SUFFIX,tfbgeee.com
+DOMAIN-SUFFIX,arebyte.xyz
+
 
 
 #DOMAIN-KEYWORD
