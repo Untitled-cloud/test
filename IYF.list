@@ -30,7 +30,11 @@ DOMAIN,s6-e1.etcbba.xyz:443
 DOMAIN,s6-e1.etcbbd.xyz
 DOMAIN,s6-e1.etcbbc.xyz
 DOMAIN,s6-e1.etcbbe.xyz
-
+DOMAIN,s6-e1.generalcdn.com
+DOMAIN,s6-e1.tfbgddd.com
+DOMAIN,s6-e1.newyvpa.com
+DOMAIN,s6-e1.tfbgeee.com
+DOMAIN,s6-e1.newwycdn.com
 
 
 #DOMAIN-SUFFIX
