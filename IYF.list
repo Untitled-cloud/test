@@ -32,3 +32,7 @@ DOMAIN-SUFFIX,s2-e1.tfboyaac.com
 DOMAIN-SUFFIX,s2-e1.tfboyaaa.com
 DOMAIN-SUFFIX,iyf.tv
 DOMAIN-SUFFIX,api.hlive.io
+
+
+#DOMAIN-KEYWORD
+DOMAIN-KEYWORD,hlive.io
