@@ -2,6 +2,7 @@
 
 
 #DOMAIN
+DOMAIN,m.yfsp.tv
 DOMAIN,m.iyf.tv
 DOMAIN,s8-e1.etcbbb.xyz
 DOMAIN,s8-e1.etcbbc.xyz
@@ -26,6 +27,7 @@ DOMAIN,pptstatic.hlive.io
 
 
 #DOMAIN-SUFFIX
+DOMAIN-SUFFIX,m.yfsp.tv
 DOMAIN-SUFFIX,m.hlive.io
 DOMAIN-SUFFIX,hlive.io
 DOMAIN-SUFFIX,static.hlive.io
