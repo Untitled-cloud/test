@@ -4,16 +4,11 @@
 #DOMAIN
 DOMAIN,m.yfsp.tv
 DOMAIN,m.iyf.tv
-DOMAIN,s8-e1.etcbbb.xyz
-DOMAIN,s8-e1.etcbbc.xyz
-DOMAIN,s8-e1.etcbbe.xyz
-DOMAIN,s8-e1.etcbbf.xyz
-DOMAIN,s8-e1.etcbbd.xyz
-DOMAIN,s8-e1.etcbba.xyz
 DOMAIN,static.hlive.io
 DOMAIN,static.yfsp.tv
 DOMAIN,chat.hlive.io
 DOMAIN,m.hlive.io
+
 DOMAIN,s2-e1.tfboyaad.com
 DOMAIN,s2-e1.tfboyaae.com
 DOMAIN,s2-e1.tfboyaab.com
@@ -22,9 +17,13 @@ DOMAIN,s2-e1.tfboyaac.com
 DOMAIN,s2-e1.tfboyaaa.com
 DOMAIN,s2-e1.dentisest.com
 DOMAIN,s2-e1.doaminwhole.com
+DOMAIN,s3-e1.dentisest.com
+DOMAIN,s3-e1.tfboyaaa.com
+DOMAIN,s3-e1.waytogone.com
+DOMAIN,s3-e1.doaminwhole.com
+
 DOMAIN,pptstatic.hlive.io
-DOMAIN,s8-e1.dentisest.com
-DOMAIN,s8-e1.waytogone.com
+
 DOMAIN,s6-e1.etcbbb.xyz
 DOMAIN,s6-e1.etcbba.xyz:443
 DOMAIN,s6-e1.etcbbd.xyz
@@ -35,11 +34,20 @@ DOMAIN,s6-e1.tfbgddd.com
 DOMAIN,s6-e1.newyvpa.com
 DOMAIN,s6-e1.tfbgeee.com
 DOMAIN,s6-e1.newwycdn.com
-DOMAIN,s3-e1.dentisest.com
-DOMAIN,s3-e1.tfboyaaa.com
-DOMAIN,s3-e1.waytogone.com
-DOMAIN,s3-e1.doaminwhole.com
+DOMAIN,s6-e1.timeprecei.com
+DOMAIN,s6-e1.dentisest.com
+DOMAIN,s6-e1.deniest.com
+DOMAIN,s6-e1.bytwogeneral.com
+DOMAIN,s6-e1.waytogone.com
 
+DOMAIN,s8-e1.etcbbb.xyz
+DOMAIN,s8-e1.etcbbc.xyz
+DOMAIN,s8-e1.etcbbe.xyz
+DOMAIN,s8-e1.etcbbf.xyz
+DOMAIN,s8-e1.etcbbd.xyz
+DOMAIN,s8-e1.etcbba.xyz
+DOMAIN,s8-e1.dentisest.com
+DOMAIN,s8-e1.waytogone.com
 
 
 #DOMAIN-SUFFIX
@@ -49,12 +57,21 @@ DOMAIN-SUFFIX,hlive.io
 DOMAIN-SUFFIX,static.hlive.io
 DOMAIN-SUFFIX,static.yfsp.tv
 DOMAIN-SUFFIX,chat.hlive.io
-DOMAIN-SUFFIX,s2-e1.tfboyaad.com
-DOMAIN-SUFFIX,s2-e1.tfboyaae.com
-DOMAIN-SUFFIX,s2-e1.tfboyaab.com
-DOMAIN-SUFFIX,s1-a1.global-cdn.me
-DOMAIN-SUFFIX,s2-e1.tfboyaac.com
-DOMAIN-SUFFIX,s2-e1.tfboyaaa.com
+DOMAIN-SUFFIX,tfboyaad.com
+DOMAIN-SUFFIX,tfboyaae.com
+DOMAIN-SUFFIX,tfboyaab.com
+DOMAIN-SUFFIX,global-cdn.me
+DOMAIN-SUFFIX,tfboyaac.com
+DOMAIN-SUFFIX,tfboyaaa.com
+DOMAIN-SUFFIX,waytogone.com
+DOMAIN-SUFFIX,dentisest.com
+DOMAIN-SUFFIX,deniest.com
+DOMAIN-SUFFIX,etcbba.xyz
+DOMAIN-SUFFIX,etcbbb.xyz
+DOMAIN-SUFFIX,etcbbc.xyz
+DOMAIN-SUFFIX,etcbbd.xyz
+DOMAIN-SUFFIX,etcbbe.xyz
+DOMAIN-SUFFIX,etcbbf.xyz
 DOMAIN-SUFFIX,iyf.tv
 DOMAIN-SUFFIX,api.hlive.io
 
