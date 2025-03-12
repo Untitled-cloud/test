@@ -44,7 +44,10 @@ DOMAIN,s8-e1.etcbbd.xyz
 DOMAIN,s8-e1.etcbba.xyz
 DOMAIN,s8-e1.dentisest.com
 DOMAIN,s8-e1.waytogone.com
-
+DOMAIN,s8-e1.bitwayeat.com
+DOMAIN,s8-e1.bytwogeneral.com
+DOMAIN,s8-e1.deniest.com
+DOMAIN,s8-e1.timeprecei.com
 
 #DOMAIN-SUFFIX
 DOMAIN-SUFFIX,m.yfsp.tv
@@ -62,6 +65,8 @@ DOMAIN-SUFFIX,tfboyaaa.com
 DOMAIN-SUFFIX,waytogone.com
 DOMAIN-SUFFIX,dentisest.com
 DOMAIN-SUFFIX,deniest.com
+DOMAIN-SUFFIX,timeprecei.com
+DOMAIN-SUFFIX,bytwogeneral.com
 DOMAIN-SUFFIX,etcbba.xyz
 DOMAIN-SUFFIX,etcbbb.xyz
 DOMAIN-SUFFIX,etcbbc.xyz
