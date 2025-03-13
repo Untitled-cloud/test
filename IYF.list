@@ -61,6 +61,11 @@ DOMAIN,s8-e1.arebyte.xyz
 DOMAIN,s8-e1.newyvpd.com
 DOMAIN,s10-e1.arebyte.xyz
 DOMAIN,s10-e1.generalcdn.com
+DOMAIN,s10-e1.etcbbj.xyz
+DOMAIN,s10-e1.tfbgaaa.com
+DOMAIN,s10-e1.tfbgbbb.com
+DOMAIN,s10-e1.tfbgccc.com
+DOMAIN,s10-e1.tfbgddd.com
 
 #DOMAIN-SUFFIX
 DOMAIN-SUFFIX,m.yfsp.tv
@@ -95,6 +100,11 @@ DOMAIN-SUFFIX,newyvpa.com
 DOMAIN-SUFFIX,newyvpd.com
 DOMAIN-SUFFIX,tfbgeee.com
 DOMAIN-SUFFIX,arebyte.xyz
+DOMAIN-SUFFIX,etcbbj.xyz
+DOMAIN-SUFFIX,tfbgaaa.com
+DOMAIN-SUFFIX,tfbgbbb.com
+DOMAIN-SUFFIX,tfbgccc.com
+DOMAIN-SUFFIX,tfbgddd.com
 
 
 
