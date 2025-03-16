@@ -62445,6 +62445,7 @@ DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,abcproxy.com
 DOMAIN-SUFFIX,en.loader.to
 DOMAIN-SUFFIX,cn.pornhub.com
+DOMAIN-SUFFIX,qichiyu.com
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
@@ -62456,8 +62457,6 @@ IP-CIDR,208.67.220.220/32,no-resolve
 IP-CIDR,142.250.0.0/16,no-resolve
 
 #IYF
-
-
 
 #DOMAIN
 DOMAIN,m.yfsp.tv
