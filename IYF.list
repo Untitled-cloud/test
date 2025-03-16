@@ -66,6 +66,8 @@ DOMAIN,s10-e1.tfbgaaa.com
 DOMAIN,s10-e1.tfbgbbb.com
 DOMAIN,s10-e1.tfbgccc.com
 DOMAIN,s10-e1.tfbgddd.com
+DOMAIN,sss6-e1.pipecdn.vip
+DOMAIN,sss8-e1.pipecdn.vip
 
 #DOMAIN-SUFFIX
 DOMAIN-SUFFIX,m.yfsp.tv
@@ -105,6 +107,7 @@ DOMAIN-SUFFIX,tfbgaaa.com
 DOMAIN-SUFFIX,tfbgbbb.com
 DOMAIN-SUFFIX,tfbgccc.com
 DOMAIN-SUFFIX,tfbgddd.com
+DOMAIN-SUFFIX,pipecdn.vip
 
 
 
