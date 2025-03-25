@@ -9,6 +9,7 @@ DOMAIN,static.yfsp.tv
 DOMAIN,chat.hlive.io
 DOMAIN,m.hlive.io
 DOMAIN,s1-e1.etcbbg.xyz
+DOMAIN,s2-e1.etcbbi.xyz
 DOMAIN,s2-e1.etcbbh.xyz
 DOMAIN,s2-e1.tfboyaad.com
 DOMAIN,s2-e1.tfboyaae.com
@@ -98,6 +99,10 @@ DOMAIN-SUFFIX,etcbbd.xyz
 DOMAIN-SUFFIX,etcbbe.xyz
 DOMAIN-SUFFIX,etcbbf.xyz
 DOMAIN-SUFFIX,etcbbg.xyz
+DOMAIN-SUFFIX,etcbbh.xyz
+DOMAIN-SUFFIX,etcbbi.xyz
+DOMAIN-SUFFIX,etcbbj.xyz
+DOMAIN-SUFFIX,etcbbk.xyz
 DOMAIN-SUFFIX,iyf.tv
 DOMAIN-SUFFIX,api.hlive.io
 DOMAIN-SUFFIX,newwycdn.com
@@ -111,7 +116,7 @@ DOMAIN-SUFFIX,tfbgbbb.com
 DOMAIN-SUFFIX,tfbgccc.com
 DOMAIN-SUFFIX,tfbgddd.com
 DOMAIN-SUFFIX,pipecdn.vip
-DOMAIN-SUFFIX,etcbbh.xyz
+
 
 
 
