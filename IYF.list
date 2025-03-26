@@ -117,9 +117,8 @@ DOMAIN-SUFFIX,tfbgccc.com
 DOMAIN-SUFFIX,tfbgddd.com
 DOMAIN-SUFFIX,pipecdn.vip
 
-
-
-
-
 #DOMAIN-KEYWORD
 DOMAIN-KEYWORD,hlive.io
+
+#EMBY
+DOMAIN-SUFFIX,entry.zox.show
