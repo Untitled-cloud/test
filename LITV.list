@@ -1,0 +1,8 @@
+#LITV
+
+#DOMAIN
+DOMAIN,fino.svc.litv.tv
+DOMAIN,jsmodule.svc.litv.tv
+
+#DOMAIN-SUFFIX
+DOMAIN-SUFFIX,litv.tv
