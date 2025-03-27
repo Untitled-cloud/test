@@ -4,7 +4,10 @@
 DOMAIN,fino.svc.litv.tv
 DOMAIN,jsmodule.svc.litv.tv
 DOMAIN,	api.svc.taiwanmedia.org
+DOMAIN,ntdfreemobile-tgc.cdn.hinet.net
+
 
 #DOMAIN-SUFFIX
 DOMAIN-SUFFIX,litv.tv
 DOMAIN-SUFFIX,taiwanmedia.org
+DOMAIN-SUFFIX,hinet.ne
