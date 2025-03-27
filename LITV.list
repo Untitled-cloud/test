@@ -6,8 +6,10 @@ DOMAIN,jsmodule.svc.litv.tv
 DOMAIN,	api.svc.taiwanmedia.org
 DOMAIN,ntdfreemobile-tgc.cdn.hinet.net
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
+DOMAIN,e2elog.fetnet.net
 
 
 #DOMAIN-SUFFIX
 DOMAIN-SUFFIX,litv.tv
 DOMAIN-SUFFIX,taiwanmedia.org
+DOMAIN-SUFFIX,fetnet.net
