@@ -3,6 +3,8 @@
 #DOMAIN
 DOMAIN,fino.svc.litv.tv
 DOMAIN,jsmodule.svc.litv.tv
+DOMAIN,	api.svc.taiwanmedia.org
 
 #DOMAIN-SUFFIX
 DOMAIN-SUFFIX,litv.tv
+DOMAIN-SUFFIX,taiwanmedia.org
