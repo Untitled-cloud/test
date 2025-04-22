@@ -1,17 +1,17 @@
 #云海
-DOMAIN,emby.oceancloud.asia
-DOMAIN-SUFFIX,oceancloud.asia
+#DOMAIN,emby.oceancloud.asia
+#DOMAIN-SUFFIX,oceancloud.asia
 
 
 #ZOX
-DOMAIN,entry.zox.show
-DOMAIN,direct.zox.show
-DOMAIN-SUFFIX,zox.show
+#DOMAIN,entry.zox.show
+#DOMAIN,direct.zox.show
+#DOMAIN-SUFFIX,zox.show
 
 #bangumi
-DOMAIN,emby.bangumi.ca
-DOMAIN-SUFFIX,bangumi.ca
-DOMAIN-SUFFIX,dandanplay.net
+#DOMAIN,emby.bangumi.ca
+#DOMAIN-SUFFIX,bangumi.ca
+#DOMAIN-SUFFIX,dandanplay.net
 
 #叶子
-DOMAIN,gm.yezi.my
+#DOMAIN,gm.yezi.my
