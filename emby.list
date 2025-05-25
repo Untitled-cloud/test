@@ -9,9 +9,9 @@ DOMAIN,direct.zox.show
 DOMAIN-SUFFIX,zox.show
 
 #bangumi
-#DOMAIN,emby.bangumi.ca
-#DOMAIN-SUFFIX,bangumi.ca
-#DOMAIN-SUFFIX,dandanplay.net
+DOMAIN,emby.bangumi.ca
+DOMAIN-SUFFIX,bangumi.ca
+DOMAIN-SUFFIX,dandanplay.net
 
 #叶子
 #DOMAIN,gm.yezi.my
