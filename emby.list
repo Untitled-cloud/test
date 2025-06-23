@@ -4,31 +4,31 @@ DOMAIN-SUFFIX,oceancloud.asia
 
 
 #ZOX
-DOMAIN,entry.zox.show
-DOMAIN,direct.zox.show
-DOMAIN-SUFFIX,zox.show
+#DOMAIN,entry.zox.show
+#DOMAIN,direct.zox.show
+#DOMAIN-SUFFIX,zox.show
 
 #bangumi
-DOMAIN,emby.bangumi.ca
-DOMAIN-SUFFIX,bangumi.ca
-DOMAIN-SUFFIX,dandanplay.net
+#DOMAIN,emby.bangumi.ca
+#DOMAIN-SUFFIX,bangumi.ca
+#DOMAIN-SUFFIX,dandanplay.net
 
 #叶子
-DOMAIN,gm.yezi.my
+#DOMAIN,gm.yezi.my
 
 
 #见手青
-DOMAIN,jsq.mooguu.xyz
-DOMAIN-SUFFIX,jsq.mooguu.xyz
+#DOMAIN,jsq.mooguu.xyz
+#DOMAIN-SUFFIX,jsq.mooguu.xyz
 
 #墨白
 #DOMAIN,myg.mobaiemby.site
 
 #CineTrail
-DOMAIN,emby1.123456789.lol
+#DOMAIN,emby1.123456789.lol
 
 #YounoEmby
-DOMAIN,emby.younoyes.com
-DOMAIN-SUFFIX,emby.younoyes.com
+#DOMAIN,emby.younoyes.com
+#DOMAIN-SUFFIX,emby.younoyes.com
 
 
