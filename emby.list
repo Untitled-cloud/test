@@ -14,8 +14,8 @@ DOMAIN-SUFFIX,oceancloud.asia
 #DOMAIN-SUFFIX,dandanplay.net
 
 #叶子
-#DOMAIN,gm.yezi.my
-
+DOMAIN,gm.yezi.my
+DOMAIN,bai.yezi.my
 
 #见手青
 #DOMAIN,jsq.mooguu.xyz
