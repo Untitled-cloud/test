@@ -62448,6 +62448,7 @@ DOMAIN-SUFFIX,en.loader.to
 DOMAIN-SUFFIX,cn.pornhub.com
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,totoro.im
+DOMAIN-SUFFIX,google.com
 
 
 IP-CIDR,8.8.8.8/32,no-resolve
