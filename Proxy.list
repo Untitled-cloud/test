@@ -30965,6 +30965,8 @@ DOMAIN-SUFFIX,en.loader.to
 DOMAIN-SUFFIX,cn.pornhub.com
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,totoro.im
+DOMAIN-SUFFIX,apple-bing,sbs
+DOMAIN-SUFFIX,svcloud.one
 
 
 IP-CIDR,8.8.8.8/32,no-resolve
