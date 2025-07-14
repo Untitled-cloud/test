@@ -2,7 +2,6 @@
 DOMAIN,emby.oceancloud.asia
 DOMAIN-SUFFIX,oceancloud.asia
 
-
 #ZOX
 #DOMAIN,entry.zox.show
 #DOMAIN,direct.zox.show
@@ -52,3 +51,7 @@ DOMAIN,rjhk.rjf37.com
 
 #非越
 DOMAIN,cf.sfcj.org
+
+#红魔
+DOMAIN-SUFFIX,cf.yunti.online
+DOMAIN-SUFFIX,emby2.yunti.online
