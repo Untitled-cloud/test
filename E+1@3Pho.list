@@ -15,12 +15,12 @@ DOMAIN-SUFFIX,bangumi.ca
 #DOMAIN-SUFFIX,dandanplay.net
 
 #叶子
-DOMAIN,gm.yezi.my
-DOMAIN,bai.yezi.my
-DOMAIN,bai1.yezi.my
-DOMAIN,bai2.yezi.my
-DOMAIN,bai3.yezi.my
-DOMAIN,bai4.yezi.my
+#DOMAIN,gm.yezi.my
+#DOMAIN,bai.yezi.my
+#DOMAIN,bai1.yezi.my
+#DOMAIN,bai2.yezi.my
+#DOMAIN,bai3.yezi.my
+#DOMAIN,bai4.yezi.my
 
 #见手青
 #DOMAIN,jsq.mooguu.xyz
@@ -60,5 +60,5 @@ DOMAIN-SUFFIX,emby2.yunti.online
 
 #其他
 DOMAIN-SUFFIX,pornemby.com
-DOMAIN-SUFFIX,ite.cn2gias.uk
+#DOMAIN-SUFFIX,ite.cn2gias.uk
 DOMAIN-SUFFIX,dog.990032.xyz
