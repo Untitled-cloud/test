@@ -6,7 +6,7 @@ DOMAIN-SUFFIX,oceancloud.asia
 #DOMAIN,entry.zox.show
 #DOMAIN,direct.zox.show
 #DOMAIN-SUFFIX,zox.show
-DOMAIN,zoxfree.3767483.xyz
+#DOMAIN,zoxfree.3767483.xyz
 
 #bangumi
 DOMAIN,emby.bangumi.ca
@@ -39,10 +39,10 @@ DOMAIN,emby1.123456789.lol
 DOMAIN-SUFFIX,plushk1.younoyes.com
 
 #飞跃
-#DOMAIN,ch.feiyue.lol
+DOMAIN,ch.feiyue.lol
 
 #飞跃18+
-#DOMAIN,emby.heisi.org
+DOMAIN,emby.heisi.org
 
 #入机
 DOMAIN,rjcf.xytx.org
