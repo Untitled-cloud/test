@@ -12,7 +12,7 @@ DOMAIN-SUFFIX,oceancloud.asia
 DOMAIN,emby.bangumi.ca
 DOMAIN,ap-cn01.emby.bangumi.ca
 DOMAIN-SUFFIX,bangumi.ca
-#DOMAIN-SUFFIX,dandanplay.net
+DOMAIN-SUFFIX,dandanplay.net
 
 #叶子
 #DOMAIN,gm.yezi.my
