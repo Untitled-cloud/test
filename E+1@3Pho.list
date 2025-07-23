@@ -1,5 +1,6 @@
 #test
 SRC-PORT,443
+DstPort,443
 
 #云海
 DOMAIN,emby.oceancloud.asia
