@@ -9,7 +9,6 @@
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
 # TOTAL: 30890
-DOMAIN,embywiki.911997.xyz
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
@@ -30968,7 +30967,7 @@ DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,totoro.im
 DOMAIN-SUFFIX,apple-bing,sbs
 DOMAIN-SUFFIX,svcloud.one
-
+DOMAIN-SUFFIX,embywiki.911997.xyz
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
