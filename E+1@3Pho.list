@@ -46,8 +46,8 @@ DOMAIN-SUFFIX,plushk1.younoyes.com
 #DOMAIN,ch.feiyue.lol
 
 #飞跃18+
-DOMAIN,emby.heisi.org
-DOMAIN-SUFFIX,emby.heisi.org
+#DOMAIN,emby.heisi.org
+#DOMAIN-SUFFIX,emby.heisi.org
 
 #入机
 DOMAIN,rjcf.xytx.org
