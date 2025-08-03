@@ -73,9 +73,9 @@ DOMAIN-SUFFIX,emby1.69yun69.com
 DOMAIN-SUFFIX,lite.cn2gias.uk
 
 #Star
-DOMAIN-SUFFIX,c2.staryuki.me
-DOMAIN-SUFFIX,fast-1.staryuki.me.kiven.cc
-DOMAIN-SUFFIX,c3.staryuki.me
+#DOMAIN-SUFFIX,c2.staryuki.me
+#DOMAIN-SUFFIX,fast-1.staryuki.me.kiven.cc
+#DOMAIN-SUFFIX,c3.staryuki.me
 
 #无界云
 DOMAIN-SUFFIX,playz.mjji.de
