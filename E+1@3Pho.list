@@ -70,7 +70,7 @@ DOMAIN-SUFFIX,emby1.69yun69.com
 #DOMAIN-SUFFIX,music.wenjian.de
 
 #守候SNTP
-DOMAIN-SUFFIX,lite.cn2gias.uk
+#DOMAIN-SUFFIX,lite.cn2gias.uk
 
 #Star
 #DOMAIN-SUFFIX,c2.staryuki.me
