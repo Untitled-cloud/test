@@ -49,11 +49,11 @@ DOMAIN-SUFFIX,plushk1.younoyes.com
 DOMAIN,emby.heisi.org
 DOMAIN-SUFFIX,emby.heisi.org
 
-#入机
-DOMAIN,rjcf.xytx.org
-DOMAIN,rjcf.rjf37.com
-DOMAIN,rjhl.xytx.org
-DOMAIN,rjhk.rjf37.com
+#入机（暂关服）
+#DOMAIN,rjcf.xytx.org
+#DOMAIN,rjcf.rjf37.com
+#DOMAIN,rjhl.xytx.org
+#DOMAIN,rjhk.rjf37.com
 
 #非越
 DOMAIN,cf.sfcj.org
