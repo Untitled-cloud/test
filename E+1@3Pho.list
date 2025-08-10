@@ -51,6 +51,7 @@ DOMAIN-SUFFIX,plushk1.younoyes.com
 #飞跃18+
 DOMAIN,emby.heisi.org
 DOMAIN-SUFFIX,emby.heisi.org
+     
 
 #入机（暂关服）
 #DOMAIN,rjcf.xytx.org
@@ -77,7 +78,7 @@ DOMAIN-SUFFIX,emby1.69yun69.com
 DOMAIN-SUFFIX,lite.cn2gias.uk
 
 #Star
-#DOMAIN-SUFFIX,c2.staryuki.me
+DOMAIN-SUFFIX,c2.staryuki.me  
 #DOMAIN-SUFFIX,fast-1.staryuki.me.kiven.cc
 #DOMAIN-SUFFIX,c3.staryuki.me
 
