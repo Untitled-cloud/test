@@ -18,8 +18,8 @@ DOMAIN-SUFFIX,oceancloud.asia
 
 #bangumi
 DOMAIN,emby.bangumi.ca
-DOMAIN,ap-cn01.emby.bangumi.ca
-DOMAIN-SUFFIX,bangumi.ca
+DOMAIN-SUFFIX,ap-cn01.emby.bangumi.ca
+DOMAIN-SUFFIX,ap-cn02.emby.bangumi.ca
 DOMAIN-SUFFIX,dandanplay.net
 
 #叶子
