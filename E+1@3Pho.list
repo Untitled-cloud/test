@@ -16,9 +16,9 @@ DOMAIN-SUFFIX,oceancloud.asia
 #DOMAIN,zoxfree.3767483.xyz
 
 #bangumi
-DOMAIN,emby.bangumi.ca
-DOMAIN-SUFFIX,ap-cn01.emby.bangumi.ca
-DOMAIN-SUFFIX,ap-cn02.emby.bangumi.ca
+#DOMAIN,emby.bangumi.ca
+#DOMAIN-SUFFIX,ap-cn01.emby.bangumi.ca
+#DOMAIN-SUFFIX,ap-cn02.emby.bangumi.ca
 DOMAIN-SUFFIX,dandanplay.net
 
 #叶子
