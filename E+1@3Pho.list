@@ -31,7 +31,7 @@ DOMAIN-SUFFIX,gm.yezi.my
 
 #见手青
 #DOMAIN,jsq.mooguu.xyz
-#DOMAIN,jsq.vban.xyz
+DOMAIN,jsq.vban.xyz
 #DOMAIN-SUFFIX,jsq.mooguu.xyz
 
 #墨白
@@ -90,3 +90,6 @@ DOMAIN-SUFFIX,playz.mjji.de
 
 #临境
 DOMAIN-SUFFIX,emby.liminalnet.com
+
+#ME
+DOMAIN-SUFFIX,mperformance.mebimmer.de
