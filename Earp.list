@@ -75,6 +75,7 @@ DOMAIN-SUFFIX,dog.990032.xyz
 DOMAIN-SUFFIX,emby1.69yun69.com
 #DOMAIN-SUFFIX,music.wenjian.de
 #DOMAIN-SUFFIX,emby.hohai.eu.org
+DOMAIN,public.shrekmedia.org
 
 #守候SNTP
 DOMAIN-SUFFIX,lite.cn2gias.uk
@@ -110,3 +111,4 @@ DOMAIN-SUFFIX,emby.kongcheng666.dpdns.org
 
 #飞喵
 DOMAIN-SUFFIX,gy.meowfly.de
+
