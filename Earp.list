@@ -76,6 +76,7 @@ DOMAIN-SUFFIX,emby1.69yun69.com
 #DOMAIN-SUFFIX,music.wenjian.de
 #DOMAIN-SUFFIX,emby.hohai.eu.org
 DOMAIN,public.shrekmedia.org
+DOMAIN-SUFFIX,emos.lol
 
 #守候SNTP
 DOMAIN-SUFFIX,lite.cn2gias.uk
