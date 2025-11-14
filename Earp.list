@@ -5,6 +5,7 @@ DstPort,443
 
 #起点站
 DOMAIN-SUFFIX,free.28.al
+DOMAIN-SUFFIX,free3.28.al
 
 #云海
 DOMAIN,emby.oceancloud.asia
