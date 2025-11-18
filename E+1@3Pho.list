@@ -129,6 +129,7 @@ DOMAIN-SUFFIX,emby.fieniu.lol
 DOMAIN-SUFFIX,emby.nebula-media.org
 DOMAIN-KEYWORD,nebula-media
 DOMAIN,emby-cdn1.nebula-media.org
+DOMAIN-SUFFIX,nebula-media.org
 
 #hka
 DOMAIN-SUFFIX,hka-emby.aliz.work
