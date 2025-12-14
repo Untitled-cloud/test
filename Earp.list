@@ -32,9 +32,9 @@ DOMAIN-SUFFIX,gm.yezi.my
 #DOMAIN,bai4.yezi.my
 
 #见手青
-#DOMAIN,jsq.mooguu.xyz
-#DOMAIN,jsq.vban.xyz
-#DOMAIN-SUFFIX,jsq.mooguu.xyz
+DOMAIN,jsq.mooguu.xyz
+DOMAIN,jsq.vban.xyz
+DOMAIN-SUFFIX,jsq.mooguu.xyz
 
 #墨白
 DOMAIN,my.g.mobaiemby.site
