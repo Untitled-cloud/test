@@ -16,6 +16,7 @@ DOMAIN-KEYWORD,baidu
 # 自己随缘添加
 DOMAIN-SUFFIX,emby.yun
 DOMAIN-SUFFIX,jcnb.3a4b5c.com
+DOMAIN,cdn.lilyemby.com
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
