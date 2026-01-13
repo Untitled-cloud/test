@@ -33,8 +33,8 @@ DOMAIN-SUFFIX,yezi.my
 
 #见手青
 DOMAIN,jsq.mooguu.xyz
-DOMAIN,jsq.vban.xyz
-DOMAIN-SUFFIX,vban.xyz
+#DOMAIN,jsq.vban.xyz
+#DOMAIN-SUFFIX,vban.xyz
 DOMAIN-SUFFIX,mooguu.xyz
 
 #墨白
