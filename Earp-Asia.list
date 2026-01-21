@@ -3,4 +3,8 @@
 
 #emos
 DOMAIN-SUFFIX,emos.lol
+
 DOMAIN-SUFFIX,empn.mom
+
+#HELLOHK
+IP-CIDR,199.188.198.202/32,no-resolve
