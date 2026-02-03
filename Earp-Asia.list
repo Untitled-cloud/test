@@ -6,5 +6,7 @@ DOMAIN-SUFFIX,emos.lol
 
 DOMAIN-SUFFIX,empn.mom
 
+DOMAIN,emby.dnscf.dpdns.org
+
 #HELLOHK
 IP-CIDR,199.188.198.202/32,no-resolve
