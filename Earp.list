@@ -39,7 +39,8 @@ DOMAIN-SUFFIX,mooguu.xyz
 
 #墨白
 DOMAIN,my.g.mobaiemby.site
-DOMAIN-SUFFIX,m.mobaiemby.site
+DOMAIN-SUFFIX,mobaiemby.site
+DOMAIN,myg2.mobaiemby.site
 
 #CineTrail（暂关服）
 #DOMAIN,emby1.123456789.lol
