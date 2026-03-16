@@ -6,6 +6,7 @@ DstPort,443
 #起点站
 DOMAIN-SUFFIX,free.28.al
 DOMAIN-SUFFIX,28.al
+DOMAIN,freestream.startspoint.com
 
 #云海
 DOMAIN,emby.oceancloud.asia
