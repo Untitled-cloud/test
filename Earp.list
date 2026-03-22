@@ -204,3 +204,7 @@ DOMAIN,ebs.cnmbyd.xyz
 #回声
 DOMAIN,emby.echoflix.de
 IP-CIDR,104.21.14.91/23,no-resolve
+
+#xyz
+DOMAIN-SUFFIX,emby.yun
+DOMAIN,gy1.66990000.xyz
