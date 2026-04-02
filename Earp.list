@@ -208,3 +208,7 @@ IP-CIDR,104.21.14.91/23,no-resolve
 #xyz
 DOMAIN-SUFFIX,emby.yun
 DOMAIN,gy1.66990000.xyz
+
+#HG
+DOMAIN,emby.dnscf.dpdns.org
+DOMAIN-SUFFIX,dnscf.dpdns.org
