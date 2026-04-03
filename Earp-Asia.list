@@ -10,5 +10,14 @@ DOMAIN-SUFFIX,empn.mom
 #DOMAIN,emby.dnscf.dpdns.org
 #DOMAIN-SUFFIX,dnscf.dpdns.org
 
+#EBS
+#DOMAIN,emby.yvle.de
+#DOMAIN,ebs.bydsb.cc.cd
+#DOMAIN,ebs.digimon.ink
+#DOMAIN,emby.ebsio.dpdns.org
+#DOMAIN,ebs.cnmbyd.de5.net
+#DOMAIN,ebs.fw1.de5.net
+#DOMAIN,ebs.cnmbyd.xyz
+
 #HELLOHK
 IP-CIDR,199.188.198.202/32,no-resolve
