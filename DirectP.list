@@ -31,6 +31,9 @@ DOMAIN,cdn.719992.xyz
 #DOMAIN,ebs.fw1.de5.net
 #DOMAIN,ebs.cnmbyd.xyz
 
+DOMAIN-SUFFIX,pushgoodcloud.com
+DOMAIN,114514.fuckme.pushgoodcloud.com
+
 #其他
 DOMAIN-SUFFIX,whtjdasha.com
 DOMAIN-SUFFIX,chybinc.com
