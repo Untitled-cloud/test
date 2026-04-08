@@ -39,6 +39,8 @@ DOMAIN-SUFFIX,mihoyo.bbroot.com
 DOMAIN,cf.sfcj.org
 DOMAIN,z.sfcj.org
 DOMAIN-SUFFIX,sfcj.org
+#xyz
+DOMAIN,gy.emby.yun
 
 #其他
 DOMAIN-SUFFIX,whtjdasha.com
