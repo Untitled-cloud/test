@@ -45,6 +45,8 @@ DOMAIN,myg2.mobaiemby.site
 
 #CineTrail（暂关服）
 #DOMAIN,emby1.123456789.lol
+DOMAIN,cf.cinetrail.live
+DOMAIN-SUFFIX,cinetrail.live
 
 #YounoEmby
 DOMAIN-SUFFIX,emby.younoyes.com
