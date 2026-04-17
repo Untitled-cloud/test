@@ -215,3 +215,6 @@ IP-CIDR,104.21.14.91/23,no-resolve
 #HG
 DOMAIN,emby.dnscf.dpdns.org
 DOMAIN-SUFFIX,dnscf.dpdns.org
+
+#牛B
+DOMAIN,772111.xyz
