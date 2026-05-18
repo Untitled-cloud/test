@@ -56,6 +56,10 @@ DOMAIN,yusen.ccwu.cc
 DOMAIN,yunsen.us.ci
 DOMAIN,emby.yusen6.ccwu.cc
 DOMAIN-SUFFIX,ccwu.cc
+#屿森待定可能不需要
+#IP-CIDR,51.83.100.187/32.no-resovle
+#DOMAIN-SUFFIX,cmecloud.cn
+
 
 #其他
 DOMAIN-SUFFIX,whtjdasha.com
