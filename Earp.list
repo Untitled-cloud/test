@@ -232,6 +232,7 @@ DOMAIN,lite.saturdayent.top
 
 #catemby
 DOMAIN,emby.fastcdn.dpdns.org
+DOMAIN-SUFFIX,fastcdn.dpdns.org
 
 #Miorina
 #DOMAIN,miorina.com
