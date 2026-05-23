@@ -60,6 +60,9 @@ DOMAIN-SUFFIX,ccwu.cc
 #IP-CIDR,51.83.100.187/32.no-resovle
 #DOMAIN-SUFFIX,cmecloud.cn
 
+#noxemby
+DOMAIN,test.inemby.us.ci
+
 
 #其他
 DOMAIN-SUFFIX,whtjdasha.com
