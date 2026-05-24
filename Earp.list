@@ -47,7 +47,7 @@ DOMAIN,p3mc4.mobaiemby.site
 #CineTrail（暂关服）
 #DOMAIN,emby1.123456789.lol
 DOMAIN,cf.cinetrail.live
-#DOMAIN-SUFFIX,cinetrail.live
+DOMAIN-SUFFIX,cinetrail.live
 DOMAIN,cf.aixj.de
 
 #YounoEmby
@@ -243,3 +243,6 @@ DOMAIN-SUFFIX,fastcdn.dpdns.org
 DOMAIN,caop.zzm.li
 DOMAIN,s1.zzm.li
 DOMAIN,eb.zzm.li
+
+#noxemby
+DOMAIN,,test.inemby.us.ci
