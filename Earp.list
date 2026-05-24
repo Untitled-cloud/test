@@ -220,7 +220,8 @@ DOMAIN,emby.dnscf.dpdns.org
 DOMAIN-SUFFIX,dnscf.dpdns.org
 
 #牛B
-DOMAIN-SUFFIX,772111.xyz
+DOMAIN,772111.xyz
+DOMAIN,us.772111.xyz
 DOMAIN-SUFFIX,111254.xyz
 DOMAIN,nbtest.111254.xyz
 
