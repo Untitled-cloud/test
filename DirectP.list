@@ -61,7 +61,7 @@ DOMAIN-SUFFIX,ccwu.cc
 #DOMAIN-SUFFIX,cmecloud.cn
 
 #noxemby
-DOMAIN,test.inemby.us.ci
+#DOMAIN,test.inemby.us.ci
 
 #牛比
 DOMAIN,ct.772111.xyz
@@ -69,7 +69,7 @@ DOMAIN,cu.772111.xyz
 DOMAIN,cm.772111.xyz
 
 #影迹白
-DOMAIN,vip.cinetrail.live
+#DOMAIN,vip.cinetrail.live
 
 #其他
 DOMAIN-SUFFIX,whtjdasha.com
