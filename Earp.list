@@ -45,11 +45,12 @@ DOMAIN-SUFFIX,mobaiemby.site
 DOMAIN,myg2.mobaiemby.site
 DOMAIN,p3mc4.mobaiemby.site
 
-#CineTrail（暂关服）
+#CineTrail（影迹）
 #DOMAIN,emby1.123456789.lol
 DOMAIN,cf.cinetrail.live
 DOMAIN-SUFFIX,cinetrail.live
 DOMAIN,cf.aixj.de
+DOMAIN,ct.yingji.lol
 
 #YounoEmby
 DOMAIN-SUFFIX,emby.younoyes.com
