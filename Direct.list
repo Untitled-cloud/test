@@ -17,6 +17,7 @@ DOMAIN-KEYWORD,baidu
 DOMAIN-SUFFIX,emby.yun
 DOMAIN-SUFFIX,jcnb.3a4b5c.com
 DOMAIN,cdn.lilyemby.com
+DOMAIN,test-ipv6.com
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
