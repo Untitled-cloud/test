@@ -245,8 +245,8 @@ DOMAIN,emby.fastcdn.dpdns.org
 DOMAIN-SUFFIX,fastcdn.dpdns.org
 
 #Miorina
-DOMAIN,miorina.com
-DOMAIN,cf.miorina.com
+#DOMAIN,miorina.com
+#DOMAIN,cf.miorina.com
 
 #只猫
 #DOMAIN,caop.zzm.li
