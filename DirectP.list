@@ -89,11 +89,15 @@ DOMAIN,cs.lyezi.xyz
 #DOMAIN-SUFFIX,lilyemby.cc
 
 #营养快线
-#DOMAIN,yykx.top
+DOMAIN,yykx.top
 
 #乐观
 DOMAIN,emby.dijia.de
 DOMAIN,yxrkemby.haosao
+
+#只猫
+DOMAIN,eb.zzm.li
+DOMAIN,vipdc.covh.eu.org
 
 #其他
 DOMAIN-SUFFIX,whtjdasha.com
