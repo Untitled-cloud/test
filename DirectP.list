@@ -78,6 +78,14 @@ DOMAIN,cm.772111.xyz
 #DOMAIN,us.772111.xyz
 DOMAIN,nbtest.111254.xyz
 
+#飞跃
+DOMAIN,ch.feiyue.lol
+DOMAIN-SUFFIX,feiyue.lol
+
+#飞跃18+
+DOMAIN,emby.heisi.org
+DOMAIN-SUFFIX,emby.heisi.org
+
 #叶子
 DOMAIN,cs.lyezi.xyz
 
