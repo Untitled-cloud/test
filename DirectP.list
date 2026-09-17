@@ -97,10 +97,10 @@ DOMAIN,cs.lyezi.xyz
 #DOMAIN,bb.111848.xyz
 
 #lily
-#DOMAIN,free.lilyemby.com
-#DOMAIN,x1.lilyemby.cc
-#DOMAIN,x2.lilyemby.cc
-#DOMAIN-SUFFIX,lilyemby.cc
+DOMAIN,free.lilyemby.com
+DOMAIN,x1.lilyemby.cc
+DOMAIN,x2.lilyemby.cc
+DOMAIN-SUFFIX,lilyemby.cc
 
 #营养快线
 DOMAIN,yykx.top
@@ -117,6 +117,7 @@ DOMAIN,vipdc.covh.eu.org
 DOMAIN,cf.sfcj.org
 DOMAIN,z.sfcj.org
 DOMAIN-SUFFIX,sfcj.org
+DOMAIN,s.sfcj.org
 
 #其他
 DOMAIN-SUFFIX,whtjdasha.com
