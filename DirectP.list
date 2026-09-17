@@ -104,6 +104,11 @@ DOMAIN,yxrkemby.haosao
 DOMAIN,eb.zzm.li
 DOMAIN,vipdc.covh.eu.org
 
+#非越
+DOMAIN,cf.sfcj.org
+DOMAIN,z.sfcj.org
+DOMAIN-SUFFIX,sfcj.org
+
 #其他
 DOMAIN-SUFFIX,whtjdasha.com
 DOMAIN-SUFFIX,chybinc.com
