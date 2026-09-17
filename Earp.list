@@ -77,6 +77,8 @@ DOMAIN-SUFFIX,plushk1.younoyes.com
 #DOMAIN,cf.sfcj.org
 #DOMAIN,z.sfcj.org
 #DOMAIN-SUFFIX,sfcj.org
+DOMAIN,media.emby.pro
+DOMAIN,s.sfcj.org
 
 #红魔
 DOMAIN-SUFFIX,cf.yunti.online
