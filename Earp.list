@@ -74,9 +74,9 @@ DOMAIN-SUFFIX,plushk1.younoyes.com
 #DOMAIN,rjhk.rjf37.com
 
 #非越
-#DOMAIN,cf.sfcj.org
-#DOMAIN,z.sfcj.org
-#DOMAIN-SUFFIX,sfcj.org
+DOMAIN,cf.sfcj.org
+DOMAIN,z.sfcj.org
+DOMAIN-SUFFIX,sfcj.org
 DOMAIN,media.emby.pro
 DOMAIN,s.sfcj.org
 
