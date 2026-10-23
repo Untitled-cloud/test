@@ -40,10 +40,10 @@ DOMAIN-SUFFIX,mooguu.xyz
 DOMAIN,a.mooguu.top
 
 #墨白
-#DOMAIN,my.g.mobaiemby.site
-#DOMAIN-SUFFIX,mobaiemby.site
-#DOMAIN,myg2.mobaiemby.site
-#DOMAIN,p3mc4.mobaiemby.site
+DOMAIN,my.g.mobaiemby.site
+DOMAIN-SUFFIX,mobaiemby.site
+DOMAIN,myg2.mobaiemby.site
+DOMAIN,p3mc4.mobaiemby.site
 
 #CineTrail（影迹）
 #DOMAIN,emby1.123456789.lol
