@@ -47,10 +47,10 @@ DOMAIN,fd1.kingemby.xyz
 #DOMAIN,emby.n150.asia
 
 #墨白
-DOMAIN,my.g.mobaiemby.site
-DOMAIN-SUFFIX,mobaiemby.site
-DOMAIN,myg2.mobaiemby.site
-DOMAIN,p3mc4.mobaiemby.site
+#DOMAIN,my.g.mobaiemby.site
+#DOMAIN-SUFFIX,mobaiemby.site
+#DOMAIN,myg2.mobaiemby.site
+#DOMAIN,p3mc4.mobaiemby.site
 
 #回声
 DOMAIN,emby.echoflix.de
