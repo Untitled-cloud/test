@@ -59,8 +59,8 @@ DOMAIN,emby.echoflix.de
 DOMAIN,cf.sfcj.org
 
 #Miorina
-DOMAIN,miorina.com
-DOMAIN,cf.miorina.com
+#DOMAIN,miorina.com
+#DOMAIN,cf.miorina.com
 #西瓜
 #DOMAIN,yuntv.de
 #屿森
