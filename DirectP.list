@@ -93,7 +93,9 @@ DOMAIN,cm.772111.xyz
 #DOMAIN-SUFFIX,emby.heisi.org
 
 #叶子
-DOMAIN,cs.lyezi.xyz
+#DOMAIN,cs.lyezi.xyz
+#DOMAIN-SUFFIX,lyezi.xyz
+#DOMAIN,kuai1.lyezi.xyz
 
 #影迹白
 #DOMAIN,vip.cinetrail.live
